@@ -174,4 +174,4 @@ with st.container():
 
     st.markdown("</div>", unsafe_allow_html=True)
 
-st.markdown("<br><center>© 2026 VeriLens AI | Developed by Ishita</center>", unsafe_allow_html=True)
+st.markdown("<br><center>© 2026 VeriLens AI | Developed by Isha</center>", unsafe_allow_html=True)
